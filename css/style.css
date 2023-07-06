@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-size: 1.6rem;
+    font-size: 62.5%;
+
+}
+.main1{
+    background-image: url('../pic/aranprime-5pQZUa5W_0I-unsplash\ 1.jpg');
+}
